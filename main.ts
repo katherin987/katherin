@@ -18,6 +18,7 @@ basic.showNumber(3)
 basic.showString("Boo")
 basic.showIcon(IconNames.Asleep)
 basic.showIcon(IconNames.Happy)
+basic.pause(100)
 soundExpression.hello.play()
 basic.forever(function () {
 	
